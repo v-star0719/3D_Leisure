@@ -7,7 +7,7 @@ The terrain is loaded from raw file in res folder.
 The meshes is created in runtime.  
 The toy is actor with frame animation.  
 
-
+![screenshot](https://github.com/qiminixi/3D_Leisure/blob/master/release/screenshot.gif)
 ![screenshot](https://github.com/qiminixi/3D_Leisure/blob/master/release/screenshot.png)
 
 If you want to run the application on your computer, please download all the file in `release folder` except screenshot.png.
